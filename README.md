@@ -1,51 +1,8 @@
-## Developer Portfolio Landing Page Template
+<h3>👋 Olá, eu me chamo João Pedro Araújo Bonfim e sou um Cientista de Dados em formação.</h3>
 
-### Introduction
+ Clique [aqui](https://mooncake-jp.github.io/) para acessar ao meu portfólio
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
-
-<img src="images/demo.gif?raw=true"/>
-
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+- 👀 Meus interesses flutuam em campos como desenvolvimento sustentável e ativismo climático, leitura de livros e mangás, vôlei, corrida e açaí.
+- 🌱 Atualmente eu estou me aprofundando em **Análise de dados com Python (Pandas, Numpy e Matplotlib)**, **Machine Learning (Scikit-Learning**, e pretendo aprender mais sobre outras ferramentas futuramente. Estou lendo Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow , do autor Aurélien Géron.
+- 💞️ Sou apaixonado pelo setor elétrico e todas as implicações sociais que envolvem o tema, e gostaria de colaborar em projetos que visam a melhoria no setor e/ou pesquisas dentro do tema de energia elétrica de fácil acesso.
+- 📫 Você pode se conectar comigo através do meu [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-ara%C3%BAjo-bonfim-0368b723a/).
