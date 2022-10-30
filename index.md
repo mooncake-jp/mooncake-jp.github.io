@@ -28,22 +28,6 @@ O mundo do cinema é repleto de obras com lucros exorbitantes, mas o que os faze
 <img src="/regressao_linear_box_office_cinema/regressao-linear-box-office.png?raw=true"/><br>
 
 
----
-
-
-### Posts Medium
-
-- [Apagão, um mundo mais que às escuras.]([http://example.com/](https://medium.com/@Archarios/apag%C3%A3o-um-mundo-mais-que-%C3%A0s-escuras-2e66e6a69e22))
-- <img src="https://miro.medium.com/max/720/1*XVLmNU0rwgnpC63UYZ5Akw.png?raw=true"/>
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 
