@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="x-icon" href="favicon.ico">
 ## Portfolio
 
 ---
