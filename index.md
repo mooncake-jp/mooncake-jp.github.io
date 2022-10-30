@@ -4,7 +4,7 @@
 
 ### Análise de Dados
 
-[Geração de Energia no Brasil](/estudo_energia_brasil)
+[Geração de Energia no Brasil](/estudo_energia_brasil/geração_energia_brasil.html)
 <img src="/estudo_energia_brasil/estudo_energia_regioes.png?raw=true"/>
 
 ---
