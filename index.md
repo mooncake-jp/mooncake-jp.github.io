@@ -2,14 +2,14 @@
 
 ---
 
-### Análise de Dados
+### Ciência de Dados & Machine Learning
 
 [Geração de Energia no Brasil]([/estudo_energia_brasil/geração_energia_brasil.html](https://mooncake-jp.github.io/estudo_energia_brasil/gera%C3%A7%C3%A3o_energia_brasil.html))
 <img src="/estudo_energia_brasil/estudo_energia_regioes.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Previsão de *Box Office* Cinema]([/regressao_linear_box_office_cinema/linear_regression.html](https://mooncake-jp.github.io/regressao_linear_box_office_cinema/linear_regression.html)
+<img src="regressao-linear-box-office.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
