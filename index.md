@@ -8,7 +8,7 @@
 <img src="/estudo_energia_brasil/estudo_energia_regioes.png?raw=true"/>
 
 ---
-[Previsão de *Box Office* Cinema]([/regressao_linear_box_office_cinema/linear_regression.html]([https://mooncake-jp.github.io/regressao_linear_box_office_cinema/linear_regression.html](https://mooncake-jp.github.io/regressao_linear_box_office_cinema/linear_regression.html)))
+[Previsão de *Box Office* Cinema](https://mooncake-jp.github.io/regressao_linear_box_office_cinema/linear_regression.html)
 <img src="/regressao_linear_box_office_cinema/regressao-linear-box-office.png?raw=true"/>
 
 ---
