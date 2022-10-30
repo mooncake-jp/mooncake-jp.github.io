@@ -15,7 +15,10 @@ O Brasil é um país referência na geração de energia, este estudo mostra um 
 <img src="/estudo_energia_brasil/estudo_energia_regioes.png?raw=true"/>
 
 ---
-[Previsão de *Box Office* Cinema](https://mooncake-jp.github.io/regressao_linear_box_office_cinema/linear_regression.html)>br
+[Previsão de *Box Office* Cinema](https://mooncake-jp.github.io/regressao_linear_box_office_cinema/linear_regression.html)<br>
+
+O mundo do cinema é repleto de obras com lucros exorbitantes, mas o que os fazem serem gigantes assim? Astros famosos, um bom *script*, uma produção de tirar o fôlego, existe de fato uma série de fatores que podem ser atribuídos ao sucesso detas obras, mas e quanto ao orçamento? Nesta análise, eu utilizo um modelo de regressão linear para tentar prever o lucro bruto de obras com base apenas do orçamento inicial da produção, utilizando de bibliotecas como pandas, scikit-learn, matplotlib e mais.
+
 [![](https://img.shields.io/badge/Jupyter-Abrir%20Notebook-orange?logo=Jupyter)](https://github.com/mooncake-jp/mooncake-jp.github.io/blob/master/regressao_linear_box_office_cinema/linear_regression.ipynb)]
 ![](https://img.shields.io/badge/Python-Analise-green?logo=python)
 ![](https://img.shields.io/badge/Pandas-Analise-blue?logo=pandas)
@@ -24,10 +27,7 @@ O Brasil é um país referência na geração de energia, este estudo mostra um 
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Category Name 2
 
@@ -43,5 +43,4 @@ O Brasil é um país referência na geração de energia, este estudo mostra um 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
