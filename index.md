@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Geração de Energia no Brasil](/estudo_energia_brasil)
+<img src="/estudo_energia_brasil/estudo_energia_regioes.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
