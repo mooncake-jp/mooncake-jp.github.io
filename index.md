@@ -15,8 +15,8 @@ O Brasil é um país referência na geração de energia, este estudo mostra um 
 <img src="/estudo_energia_brasil/estudo_energia_regioes.png?raw=true"/>
 
 ---
-[Previsão de *Box Office* Cinema](https://mooncake-jp.github.io/regressao_linear_box_office_cinema/linear_regression.html)
-![](https://img.shields.io/badge/Jupyter-Abrir%20Notebook-orange?logo=Jupyter)](https://github.com/mooncake-jp/mooncake-jp.github.io/blob/master/regressao_linear_box_office_cinema/linear_regression.ipynb)
+[Previsão de *Box Office* Cinema](https://mooncake-jp.github.io/regressao_linear_box_office_cinema/linear_regression.html)>br
+[![](https://img.shields.io/badge/Jupyter-Abrir%20Notebook-orange?logo=Jupyter)](https://github.com/mooncake-jp/mooncake-jp.github.io/blob/master/regressao_linear_box_office_cinema/linear_regression.ipynb)]
 ![](https://img.shields.io/badge/Python-Analise-green?logo=python)
 ![](https://img.shields.io/badge/Pandas-Analise-blue?logo=pandas)
 ![](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikit-learn)
