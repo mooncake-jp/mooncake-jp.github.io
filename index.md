@@ -9,7 +9,7 @@
 
 ---
 [Previsão de *Box Office* Cinema]([/regressao_linear_box_office_cinema/linear_regression.html](https://mooncake-jp.github.io/regressao_linear_box_office_cinema/linear_regression.html))
-<img src="regressao-linear-box-office.png?raw=true"/>
+<img src="/regressao_linear_box_office_cinema/regressao-linear-box-office.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
