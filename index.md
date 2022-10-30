@@ -4,7 +4,7 @@
 
 ### Ciência de Dados & Machine Learning
 
-[Geração de Energia no Brasil](https://mooncake-jp.github.io/estudo_energia_brasil/gera%C3%A7%C3%A3o_energia_brasil.html)
+[Geração de Energia no Brasil](https://mooncake-jp.github.io/estudo_energia_brasil/gera%C3%A7%C3%A3o_energia_brasil.html)<br>
 [![](https://img.shields.io/badge/Jupyter-Abrir%20Notebook-orange?logo=Jupyter)](https://github.com/mooncake-jp/mooncake-jp.github.io/blob/master/estudo_energia_brasil/gera%C3%A7%C3%A3o_energia_brasil.ipynb)
 <img src="/estudo_energia_brasil/estudo_energia_regioes.png?raw=true"/>
 
