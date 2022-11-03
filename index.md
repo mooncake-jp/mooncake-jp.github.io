@@ -12,7 +12,7 @@
 
 O Brasil é um país referência na geração de energia, este estudo mostra um pouco da tendência de crescimento na geração de energia nos últimos 22 anos e algumas ocorrências que podem ser vistas nos gráficos utilizados na análise deste projeto. Este é um exercício prático que mostra como podemos extrair certas informações de um volume grande de dados quando analisados com as ferramentas corretas, e tem como uma das referências um pequeno artigo de minha autoria publicado no Medium, você pode checá-lo neste <a href="https://medium.com/@Archarios/apag%C3%A3o-um-mundo-mais-que-%C3%A0s-escuras-2e66e6a69e22">link</a> ou a sua versão em inglês <a href="https://medium.com/@Archarios/blackout-the-dark-side-of-the-earth-de9eae91d2df">aqui</a>.
 
-<img src="https://github.com/mooncake-jp/estudo_energia_brasil/blob/d43c38101c53070088513e1f87190535f849aa4f/estudo_energia_regioes.png?raw=true"/>
+<img src="https://github.com/mooncake-jp/mooncake-jp.github.io/blob/4541d68d5da184d1c4c7438be50e90066a1d78ad/portfolio_pages/estudo_energia/estudo_energia.png?raw=True"/>
 
 ---
 [Previsão de *Box Office* Cinema](https://github.com/mooncake-jp/analise_box_office_cinema/blob/328da939c2074512261f0ad53ee51e9ae7f07775/linear_regression.html)<br>
