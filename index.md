@@ -4,7 +4,7 @@
 
 ### Ciência de Dados & Machine Learning
 
-[Previsão de emissão de CO2 per capita](https://github.com/mooncake-jp/mooncake-jp.github.io/portfolio_pages/previsao_co2_per_capita/co2-emissions-study.html)<br>
+[Previsão de emissão de CO2 per capita](https://mooncake-jp.github.io/portfolio_pages/previsao_co2_per_capita/co2-emissions-study.html)<br>
 [![](https://img.shields.io/badge/Jupyter-Abrir%20Notebook-orange?logo=Jupyter)](https://github.com/mooncake-jp/co2-emissions-study/blob/b6ce0203366408972ffb39baffe4dd85f4bff2cc/co2-emissions-study.ipynb)
 ![](https://img.shields.io/badge/Pandas-Analise-blue?logo=pandas)
 ![](https://img.shields.io/badge/Python-Analise-green?logo=python)<br>
