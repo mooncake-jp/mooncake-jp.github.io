@@ -14,6 +14,7 @@ A mudança climática não é um fenômeno novo, o termo é datado do início do
 
 <img src="https://github.com/mooncake-jp/mooncake-jp.github.io/blob/master/portfolio_pages/previsao_co2_per_capita/emiss%C3%A3o_co2_mundo.png?raw=true"/>
 
+---
 [Geração de Energia no Brasil](https://mooncake-jp.github.io/portfolio_pages/estudo_energia/estudo_energia.html)<br>
 
 [![](https://img.shields.io/badge/Jupyter-Abrir%20Notebook-orange?logo=Jupyter)](https://github.com/mooncake-jp/estudo_energia_brasil/blob/d43c38101c53070088513e1f87190535f849aa4f/gera%C3%A7%C3%A3o_energia_brasil.ipynb)
